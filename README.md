@@ -1,4 +1,4 @@
-# ContinueWithApple
+# Continue With Apple
 Sign in with Apple, Sign up with Apple, or Continue with Apple
 
 ## Utils
